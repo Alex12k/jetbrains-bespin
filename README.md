@@ -6,15 +6,15 @@ This is a port of the Bespin theme from Sublime Text 2/3 to IntelliJ IDEA-based 
 
 ## Installation
 
-Copy the `.icls` file to `colors`-folder.
+Copy the `bespin.icls` file to `colors`-folder.
 
 The folder location on different platforms:
 
-*OSX*
+**OSX**
 `~/Library/Preferences/[WebIDEXX|WebStorm10]/colors`
 
-*Linux*
+**Linux**
 `~/.[WebIDEXX|WebStorm10]/config/colors`
 
-*Windows*
+**Windows**
 `C:\Documents and Settings\<Your username>\.[WebIDEXX|WebStorm10]\config\colors`
