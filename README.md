@@ -21,4 +21,4 @@ The folder location on different platforms:
 
 ## Fonts
 
-Ok, this is a opinionated topic, but for Bespin the best font is definitely *Menlo*. Menlo can be downloaded [here](https://github.com/hbin/top-programming-fonts).
+Ok, this is an opinionated topic, but for Bespin the best font is definitely *Menlo*. Menlo can be downloaded [here](https://github.com/hbin/top-programming-fonts).
